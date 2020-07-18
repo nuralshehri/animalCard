@@ -1,0 +1,47 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.page-container{
+   border: 3px solid rgb(34, 99, 34);
+   width: 315px;
+   margin: 10px;
+   padding: 5px;
+  }
+ 
+.pic-container{
+     border: 2px hidden;
+    margin: 3px; 
+    padding: 3px;
+  }  
+
+.para-container{
+    border: 2px groove;
+    margin: 3px;
+    padding: 3px;
+    width: 299px;
+  }
+
+.fun{ 
+    text-decoration: underline;
+    color: rgb(9, 124, 86);
+    font-weight: bold;
+  }
+
+
+body {
+    font: 12pt, -apple-system, BlinkMacSystemFont, Segoe UI,sans-serif;
+    text-align: left;
+  }
+
+ul li{
+     text-align: left;
+     list-style: none;
+  }
+
+span {
+     text-align: left;
+     font-weight: bold;
+     color: rgb(16, 114, 48)
+  }     
